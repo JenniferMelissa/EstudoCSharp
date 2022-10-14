@@ -1,0 +1,15 @@
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\bin\Debug\net6.0\7-AtribuirVariavel.exe
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\bin\Debug\net6.0\7-AtribuirVariavel.deps.json
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\bin\Debug\net6.0\7-AtribuirVariavel.runtimeconfig.json
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\bin\Debug\net6.0\7-AtribuirVariavel.dll
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\bin\Debug\net6.0\7-AtribuirVariavel.pdb
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\obj\Debug\net6.0\7-AtribuirVariavel.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\obj\Debug\net6.0\7-AtribuirVariavel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\obj\Debug\net6.0\7-AtribuirVariavel.AssemblyInfoInputs.cache
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\obj\Debug\net6.0\7-AtribuirVariavel.AssemblyInfo.cs
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\obj\Debug\net6.0\7-AtribuirVariavel.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\obj\Debug\net6.0\7-AtribuirVariavel.dll
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\obj\Debug\net6.0\refint\7-AtribuirVariavel.dll
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\obj\Debug\net6.0\7-AtribuirVariavel.pdb
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\obj\Debug\net6.0\7-AtribuirVariavel.genruntimeconfig.cache
+D:\Users\jennifer.sales\source\repos\OlaMundo\7-GuardarValor\obj\Debug\net6.0\ref\7-AtribuirVariavel.dll

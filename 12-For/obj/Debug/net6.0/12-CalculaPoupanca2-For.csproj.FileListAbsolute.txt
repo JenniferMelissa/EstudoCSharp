@@ -1,0 +1,15 @@
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\obj\Debug\net6.0\12-CalculaPoupanca2-For.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\obj\Debug\net6.0\12-CalculaPoupanca2-For.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\obj\Debug\net6.0\12-CalculaPoupanca2-For.AssemblyInfoInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\obj\Debug\net6.0\12-CalculaPoupanca2-For.AssemblyInfo.cs
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\obj\Debug\net6.0\12-CalculaPoupanca2-For.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\bin\Debug\net6.0\12-CalculaPoupanca2-For.exe
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\bin\Debug\net6.0\12-CalculaPoupanca2-For.deps.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\bin\Debug\net6.0\12-CalculaPoupanca2-For.runtimeconfig.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\bin\Debug\net6.0\12-CalculaPoupanca2-For.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\bin\Debug\net6.0\12-CalculaPoupanca2-For.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\obj\Debug\net6.0\12-CalculaPoupanca2-For.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\obj\Debug\net6.0\refint\12-CalculaPoupanca2-For.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\obj\Debug\net6.0\12-CalculaPoupanca2-For.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\obj\Debug\net6.0\12-CalculaPoupanca2-For.genruntimeconfig.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\12-For\obj\Debug\net6.0\ref\12-CalculaPoupanca2-For.dll

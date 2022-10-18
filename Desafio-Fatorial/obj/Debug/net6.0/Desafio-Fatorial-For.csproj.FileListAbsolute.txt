@@ -1,0 +1,15 @@
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\bin\Debug\net6.0\Desafio-Fatorial-For.exe
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\bin\Debug\net6.0\Desafio-Fatorial-For.deps.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\bin\Debug\net6.0\Desafio-Fatorial-For.runtimeconfig.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\bin\Debug\net6.0\Desafio-Fatorial-For.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\bin\Debug\net6.0\Desafio-Fatorial-For.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\obj\Debug\net6.0\Desafio-Fatorial-For.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\obj\Debug\net6.0\Desafio-Fatorial-For.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\obj\Debug\net6.0\Desafio-Fatorial-For.AssemblyInfoInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\obj\Debug\net6.0\Desafio-Fatorial-For.AssemblyInfo.cs
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\obj\Debug\net6.0\Desafio-Fatorial-For.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\obj\Debug\net6.0\Desafio-Fatorial-For.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\obj\Debug\net6.0\refint\Desafio-Fatorial-For.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\obj\Debug\net6.0\Desafio-Fatorial-For.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\obj\Debug\net6.0\Desafio-Fatorial-For.genruntimeconfig.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-Fatorial\obj\Debug\net6.0\ref\Desafio-Fatorial-For.dll

@@ -1,0 +1,15 @@
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\obj\Debug\net6.0\13-InvestimentoLogoPrazo.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\obj\Debug\net6.0\13-InvestimentoLogoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\obj\Debug\net6.0\13-InvestimentoLogoPrazo.AssemblyInfoInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\obj\Debug\net6.0\13-InvestimentoLogoPrazo.AssemblyInfo.cs
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\obj\Debug\net6.0\13-InvestimentoLogoPrazo.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\bin\Debug\net6.0\13-InvestimentoLogoPrazo.exe
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\bin\Debug\net6.0\13-InvestimentoLogoPrazo.deps.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\bin\Debug\net6.0\13-InvestimentoLogoPrazo.runtimeconfig.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\bin\Debug\net6.0\13-InvestimentoLogoPrazo.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\bin\Debug\net6.0\13-InvestimentoLogoPrazo.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\obj\Debug\net6.0\13-InvestimentoLogoPrazo.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\obj\Debug\net6.0\refint\13-InvestimentoLogoPrazo.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\obj\Debug\net6.0\13-InvestimentoLogoPrazo.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\obj\Debug\net6.0\13-InvestimentoLogoPrazo.genruntimeconfig.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\13-InvestimentoLogoPrazo\obj\Debug\net6.0\ref\13-InvestimentoLogoPrazo.dll

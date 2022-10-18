@@ -1,0 +1,15 @@
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\bin\Debug\net6.0\Desafio-LacoRepeticaoFor.exe
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\bin\Debug\net6.0\Desafio-LacoRepeticaoFor.deps.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\bin\Debug\net6.0\Desafio-LacoRepeticaoFor.runtimeconfig.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\bin\Debug\net6.0\Desafio-LacoRepeticaoFor.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\bin\Debug\net6.0\Desafio-LacoRepeticaoFor.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\obj\Debug\net6.0\Desafio-LacoRepeticaoFor.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\obj\Debug\net6.0\Desafio-LacoRepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\obj\Debug\net6.0\Desafio-LacoRepeticaoFor.AssemblyInfoInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\obj\Debug\net6.0\Desafio-LacoRepeticaoFor.AssemblyInfo.cs
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\obj\Debug\net6.0\Desafio-LacoRepeticaoFor.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\obj\Debug\net6.0\Desafio-LacoRepeticaoFor.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\obj\Debug\net6.0\refint\Desafio-LacoRepeticaoFor.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\obj\Debug\net6.0\Desafio-LacoRepeticaoFor.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\obj\Debug\net6.0\Desafio-LacoRepeticaoFor.genruntimeconfig.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LacoRepeticaoFor\obj\Debug\net6.0\ref\Desafio-LacoRepeticaoFor.dll

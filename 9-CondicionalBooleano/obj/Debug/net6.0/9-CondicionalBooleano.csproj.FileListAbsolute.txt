@@ -1,0 +1,15 @@
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\bin\Debug\net6.0\9-CondicionalBooleano.exe
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\bin\Debug\net6.0\9-CondicionalBooleano.deps.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\bin\Debug\net6.0\9-CondicionalBooleano.runtimeconfig.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\bin\Debug\net6.0\9-CondicionalBooleano.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\bin\Debug\net6.0\9-CondicionalBooleano.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\obj\Debug\net6.0\9-CondicionalBooleano.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\obj\Debug\net6.0\9-CondicionalBooleano.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\obj\Debug\net6.0\9-CondicionalBooleano.AssemblyInfoInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\obj\Debug\net6.0\9-CondicionalBooleano.AssemblyInfo.cs
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\obj\Debug\net6.0\9-CondicionalBooleano.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\obj\Debug\net6.0\9-CondicionalBooleano.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\obj\Debug\net6.0\refint\9-CondicionalBooleano.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\obj\Debug\net6.0\9-CondicionalBooleano.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\obj\Debug\net6.0\9-CondicionalBooleano.genruntimeconfig.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\9-CondicionalBooleano\obj\Debug\net6.0\ref\9-CondicionalBooleano.dll

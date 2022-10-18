@@ -1,0 +1,15 @@
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\bin\Debug\net6.0\10-Escopo.exe
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\bin\Debug\net6.0\10-Escopo.deps.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\bin\Debug\net6.0\10-Escopo.runtimeconfig.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\bin\Debug\net6.0\10-Escopo.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\bin\Debug\net6.0\10-Escopo.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\obj\Debug\net6.0\10-Escopo.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\obj\Debug\net6.0\10-Escopo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\obj\Debug\net6.0\10-Escopo.AssemblyInfoInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\obj\Debug\net6.0\10-Escopo.AssemblyInfo.cs
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\obj\Debug\net6.0\10-Escopo.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\obj\Debug\net6.0\10-Escopo.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\obj\Debug\net6.0\refint\10-Escopo.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\obj\Debug\net6.0\10-Escopo.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\obj\Debug\net6.0\10-Escopo.genruntimeconfig.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\10-Escopo\obj\Debug\net6.0\ref\10-Escopo.dll

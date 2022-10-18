@@ -1,0 +1,15 @@
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\bin\Debug\net6.0\Desafio-LaçoRepeticaoWhile.exe
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\bin\Debug\net6.0\Desafio-LaçoRepeticaoWhile.deps.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\bin\Debug\net6.0\Desafio-LaçoRepeticaoWhile.runtimeconfig.json
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\bin\Debug\net6.0\Desafio-LaçoRepeticaoWhile.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\bin\Debug\net6.0\Desafio-LaçoRepeticaoWhile.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\obj\Debug\net6.0\Desafio-LaçoRepeticaoWhile.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\obj\Debug\net6.0\Desafio-LaçoRepeticaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\obj\Debug\net6.0\Desafio-LaçoRepeticaoWhile.AssemblyInfoInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\obj\Debug\net6.0\Desafio-LaçoRepeticaoWhile.AssemblyInfo.cs
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\obj\Debug\net6.0\Desafio-LaçoRepeticaoWhile.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\obj\Debug\net6.0\Desafio-LaçoRepeticaoWhile.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\obj\Debug\net6.0\refint\Desafio-LaçoRepeticaoWhile.dll
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\obj\Debug\net6.0\Desafio-LaçoRepeticaoWhile.pdb
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\obj\Debug\net6.0\Desafio-LaçoRepeticaoWhile.genruntimeconfig.cache
+D:\Users\jennifer.sales\Desktop\OlaMundo\Desafio-LaçoRepeticaoWhile\obj\Debug\net6.0\ref\Desafio-LaçoRepeticaoWhile.dll

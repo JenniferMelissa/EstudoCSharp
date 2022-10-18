@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\jennifer.sales\\source\\repos\\OlaMundo\\8-Condicionais\\8-Condicionais.csproj": {}
+    "D:\\Users\\jennifer.sales\\Desktop\\OlaMundo\\8-Condicionais\\8-Condicionais.csproj": {}
   },
   "projects": {
-    "D:\\Users\\jennifer.sales\\source\\repos\\OlaMundo\\8-Condicionais\\8-Condicionais.csproj": {
+    "D:\\Users\\jennifer.sales\\Desktop\\OlaMundo\\8-Condicionais\\8-Condicionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\jennifer.sales\\source\\repos\\OlaMundo\\8-Condicionais\\8-Condicionais.csproj",
+        "projectUniqueName": "D:\\Users\\jennifer.sales\\Desktop\\OlaMundo\\8-Condicionais\\8-Condicionais.csproj",
         "projectName": "8-Condicionais",
-        "projectPath": "D:\\Users\\jennifer.sales\\source\\repos\\OlaMundo\\8-Condicionais\\8-Condicionais.csproj",
+        "projectPath": "D:\\Users\\jennifer.sales\\Desktop\\OlaMundo\\8-Condicionais\\8-Condicionais.csproj",
         "packagesPath": "D:\\Users\\jennifer.sales\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\jennifer.sales\\source\\repos\\OlaMundo\\8-Condicionais\\obj\\",
+        "outputPath": "D:\\Users\\jennifer.sales\\Desktop\\OlaMundo\\8-Condicionais\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
